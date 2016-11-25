@@ -2,9 +2,9 @@
 
 // Database Constants
 define("DB_SERVER", "localhost");
-define("DB_USER", "betterj1_chance");
-define("DB_PASS", "wcsadmin");
-define("DB_NAME", "betterj1_smoothie");
+define("DB_USER", "xxx");
+define("DB_PASS", "xxx");
+define("DB_NAME", "xxx");
 
 //Getting Day first
 $day = date("D");
