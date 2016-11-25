@@ -1,0 +1,31 @@
+CACHE MANIFEST
+# 2011-10-21:v0.1
+
+# Explicitly cached entries
+include/header.php
+inclulde/footer.php
+index.html
+login-home.php
+style/iphone.css
+
+# Extra Pages
+addemployee.php
+removeemployee.php
+aiemployee.php
+listemployee.php
+listrewards.php
+managespeciallist.php
+mhome.php
+
+
+# offline.html will be displayed if the user is offline
+FALLBACK:
+
+
+# All other resources (e.g. sites) require the user to be online. 
+NETWORK:
+
+
+# Additional resources to cache
+CACHE:
+images/startup.png
